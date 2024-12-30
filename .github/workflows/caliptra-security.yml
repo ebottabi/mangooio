@@ -1,5 +1,5 @@
 name: Caliptra Security
-run-name: caliptra-ci-45k95s
+run-name: caliptra-ci-iovpq6
 on:
   pull_request:
     branches: [master]
